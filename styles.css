@@ -1,0 +1,46 @@
+body {
+   
+    margin: 0;
+    background-image: url(./img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: sans-serif;
+    color: #0c0b0b;
+    user-select: none; 
+  }
+  input[type="text"] {
+    border-radius: 5px;
+    margin: 10px 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    color: #777;
+    max-width: 100%;
+    outline: none;
+    padding: 7px 8px;
+}
+input[type="date"] {
+    border-radius: 5px;
+    margin: 10px 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    color: #777;
+    max-width: 100%;
+    outline: none;
+    padding: 7px 8px;
+}
+  
+button[type="button"] {
+    border-radius: 5px;
+    margin: 10px 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    color: rgb(10, 9, 9);
+    max-width: 100%;
+    outline: none;
+    padding: 7px 8px;
+}
+
+
